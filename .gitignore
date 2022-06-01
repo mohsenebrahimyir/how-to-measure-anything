@@ -1,3 +1,6 @@
+# Documents: books, paper, reports
+documents/
+
 # History files
 .Rhistory
 .Rapp.history
