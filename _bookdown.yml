@@ -1,0 +1,22 @@
+book_filename: "how-to-measure-anything"
+delete_merged_file: true
+output_dir: "docs"
+rmd_subdir: "Rmd"
+language:
+  label:
+    toc: "فهرست"
+    fig: "شکل "
+    tab: "جدول "
+    def: "تعریف "
+    exr: "تمرین "
+    exm: "مثال "
+    solution: "راه حل "
+    remark: "نکته "
+    eq: 'معادله '
+    thm: 'قضیه '
+    lem: 'اصل '
+    hyp: 'فرضیه '
+    cor: "نتیجه گیری"
+    proof: 'اثبات '
+  ui:
+    chapter_name: "فصل "

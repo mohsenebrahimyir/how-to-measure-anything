@@ -1,0 +1,74 @@
+--- 
+title: "چگونه هر چیزی را اندازه بگیریم"
+subtitle: "چگونه هر چیزی را اندازه بگیریم"
+author:
+  - محسن ابراهیمی
+date: 
+  - "`r format(Sys.time(), '%B, %Y')`"
+documentclass: book
+favicon: 
+  - "./img/favicon.ico"
+cover-image: 
+  - "./img/cover.jpg"
+site: bookdown::bookdown_site
+url: https://mohsenebrahimyir.github.io/how-to-measure-anything/
+classoption: openany
+bibliography: 
+  - bib/book.bib
+  - bib/packages.bib
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.pos = "!ht",
+	fig.align = "center",
+	message = FALSE,
+	warning = FALSE,
+	out.width = "70%"
+)
+```
+
+```{r include=FALSE}
+source("R/library.R")
+source("R/function.R")
+```
+
+
+پیش گفتار {-}
+================================================================================
+
+به همراه این کتاب می‌توانید مطالعه 
+چگونه هر چیزی را اندازه بگیریم
+به همراه ربان برنامه نویسی 
+**R**
+شروع کنید.
+سعی کنید بعد از هر آموزش تمرینات مربوط به آن را انجام دهید.
+نظرات و پیشنهادات خود را می‌توانید از طریق ایمیل
+mohsenebrahimy.ir@gmail.com
+برای بهبود کتاب به نویسنده ارسال کنید
+تا در هر بروزرسانی اصلاحات صورت گیرد. این نسخه در تاریخ
+**[`r date_gr_to_jl() |> digit_fa()`]{dir=ltr}**
+بروزرسانی شده است.
+
+::: {.center data-latex=""}
+<center>
+[<https://mohsenebrahimyir.github.io/how-to-measure-anything/>]{dir=ltr}
+</center>
+:::
+
+امیدوارم این کتاب برایتان مفید باشد.
+
+::: {.center data-latex=""}
+<center>
+**محسن ابراهیمی**
+</center>
+<br/>
+<center>
+**www.mohsenebrahimy.ir**
+</center>
+:::
+
+
+
