@@ -1,5 +1,6 @@
 # Documents: books, paper, reports
 documents/
+data/
 
 # History files
 .Rhistory

@@ -15,6 +15,7 @@ url: https://mohsenebrahimyir.github.io/how-to-measure-anything/
 classoption: openany
 bibliography: 
   - bib/book.bib
+  - bib/article.bib
   - bib/packages.bib
 link-citations: yes
 ---
@@ -22,8 +23,8 @@ link-citations: yes
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
 	echo = FALSE,
-	fig.pos = "!ht",
 	fig.align = "center",
+	fig.pos = "!ht",
 	message = FALSE,
 	warning = FALSE,
 	out.width = "70%"

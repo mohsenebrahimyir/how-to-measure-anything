@@ -1,5 +1,13 @@
-exm:unlabeled-div-2
-def:unlabeled-div-4
+exm:unlabeled-div-3
+def:unlabeled-div-5
+def:unlabeled-div-7
+def:unlabeled-div-10
+def:unlabeled-div-12
+def:unlabeled-div-15
+def:unlabeled-div-17
+exm:unlabeled-div-18
+def:unlabeled-div-19
+exm:unlabeled-div-20
 مشکل-چیزهای-نامشهود
 عادت-اندازه-گیری-شهودی
 توهم-چیزهای-مشهود
